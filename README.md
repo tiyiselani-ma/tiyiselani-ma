@@ -1,67 +1,62 @@
-# Hi there, I'm Advocate Mabunda👋
+# 👋 Hi there, I'm Tiyiselani Mabunda
 
-I'm a passionate **Laravel Developer** with expertise in building dynamic, scalable, and maintainable web applications. My skill set spans the **Laravel ecosystem**, including **Livewire**, **Blade**, and **Eloquent**, and I have strong proficiency in **PHP**, **JavaScript**, and **headless testing** with **Puppeteer**.
+I'm a **Laravel Developer** passionate about building modern, scalable web applications. With expertise in the **Laravel ecosystem** and tools like **Livewire** and **Tailwind CSS**, I focus on creating dynamic and seamless user experiences. 
 
 ---
 
-## 💻 Skills & Expertise
+## 💻 Skills & Tools
 
-### **Laravel Ecosystem**
-- **Laravel Framework**: Expert in RESTful APIs, Eloquent ORM, migrations, middleware, and custom package development.
-- **Livewire**: Building dynamic, reactive, and modern interfaces without leaving the Laravel ecosystem.
-- **Blade**: Templating with reusable components for consistent UI development.
-- **Queue & Event Handling**: Managing background jobs for optimized application performance.
+### 🌟 Laravel Ecosystem
+- 🛠️ **Laravel**: RESTful APIs, Eloquent ORM, migrations, middleware.
+- ⚡ **Livewire**: Reactive components for dynamic UIs.
+- ✨ **Blade**: Simple and reusable templating.
+- 🗂️ **Queue & Events**: Efficient background processing.
 
-### **Backend Development**
-- **PHP**: Crafting secure, high-performance, and scalable backend solutions.
-- **API Development**: Building RESTful APIs with token-based authentication and integration with third-party APIs.
+### 💡 Frontend & Styling
+- 🖌️ **Tailwind CSS**: Modern, responsive design.
+- 📦 **Alpine.js**: Lightweight interactivity.
+- 🖼️ **JavaScript**: Interactive frontend components.
 
-### **Frontend Development**
-- **JavaScript**: Enhancing interactivity and integrating frontend components.
-- **Tailwind CSS**: Rapid styling for modern and responsive user interfaces.
-- **Alpine.js**: Lightweight interactivity for dynamic components in Laravel projects.
+### 🤖 Automation & Testing
+- 🌐 **Puppeteer**: Headless browser testing and automation.
+- ✅ **PHPUnit**: Clean and efficient unit testing.
 
-### **Automation & Testing**
-- **Puppeteer**: Headless browser automation for testing, scraping, and workflow automation.
-- **Unit Testing**: Writing clean and maintainable tests with PHPUnit.
-
-### **DevOps & Tools**
-- **Database Management**: Proficient in MySQL and SQLite for database design and optimization.
-- **Version Control**: Git & GitHub for collaboration and version management.
-- **Server Deployment**: Deploying Laravel applications on platforms like Forge, DigitalOcean, and AWS.
+### 🛠️ Other Skills
+- 🗃️ **Databases**: MySQL, SQLite.
+- 🔧 **Version Control**: Git & GitHub.
+- ☁️ **Deployment**: Laravel Forge, DigitalOcean, AWS.
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🛠️ **[Dynamic CMS Platform](#)**
-A Laravel + Livewire-based CMS with real-time data updates, custom admin panels, and role-based access control.
+### 🛠️ [Dynamic CMS Platform](#)
+> A CMS built with **Laravel + Livewire**, offering real-time updates, custom admin panels, and role-based access control.
 
-### 📜 **[Invoice Management System](#)**
-A Laravel application for managing invoices, generating PDF reports, and tracking payment statuses.
+### 📜 [Invoice Manager](#)
+> A Laravel app to manage invoices, generate PDFs, and track payments.
 
-### 🔍 **[Automation Suite](#)**
-Workflow automation using Puppeteer to scrape data, test UI elements, and interact with forms on websites.
+### 🤖 [Automation Suite](#)
+> Workflow automation with **Puppeteer** for data scraping, testing, and form submissions.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: PHP, JavaScript, Python, HTML, CSS.
-- **Frameworks**: Laravel, Livewire, Puppeteer, Alpine.js.
-- **Styling**: Tailwind CSS, Bootstrap.
-- **Databases**: MySQL, SQLite.
-- **Version Control**: Git & GitHub.
-- **Other Tools**: Composer, Artisan CLI, Forge, PHPUnit.
+
+| 💻 Languages      | 🛠️ Frameworks         | 🎨 Styling        | 🗂️ Tools         |
+|-------------------|-----------------------|-------------------|------------------|
+| PHP, JavaScript   | Laravel, Livewire    | Tailwind CSS      | Git, Composer    |
+| Python, HTML, CSS | Puppeteer, Alpine.js | Bootstrap         | Forge, PHPUnit   |
 
 ---
 
 ## 🤝 Let's Connect
-- **Portfolio**: [YourPortfolio.com](#)
-- **LinkedIn**: [LinkedIn Profile](#)
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
+- 🌐 **Portfolio**: [YourPortfolio.com](#)
+- 💼 **LinkedIn**: [LinkedIn Profile](#)
+- 📧 **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
 
 ---
 
-🎯 _“Building modern web applications with Laravel and beyond."_ 
+✨ _"Building efficient, dynamic, and user-focused web applications."_  
 
 Happy coding! 🚀
